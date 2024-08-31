@@ -1,7 +1,7 @@
 # Cyborg_ML
 
 Task1:
-Here's a dataset for Life expectancy . You have to do the following:
+Here's a dataset for Life expectancy :
 1. Explain what the attributes are.
 2. Perform explratory data analysis.
 3. Perform preprocessing if required
